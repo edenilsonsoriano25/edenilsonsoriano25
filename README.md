@@ -74,5 +74,5 @@ Estudiante de **Ingeniería de Desarrollo de Software** en ITCA-FEPADE con una s
 ## 🤝 Contacto y Conectividad
 
 ¡Siempre estoy abierto a colaborar en proyectos de código abierto, desarrollo backend y administración de sistemas!
-* **LinkedIn:** [Tu Perfil de LinkedIn Aquí](https://linkedin.com)
+``* **LinkedIn:** [Tu Perfil de LinkedIn Aquí](https://linkedin.com)``
 * **Correo:** [sorianocamposedenilson@gmail.com](mailto:sorianocamposedenilson@gmail.com)
